@@ -1,0 +1,48 @@
+.bgimg{
+
+    background-image:  url("https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-52393.jpg?w=1060&t=st=1669091506~exp=1669092106~hmac=03b0e6af19a62bdf4a59ee35a4a5316d9323d4914abe4a7cde2f3877595ea7a8");
+    height: 190vh;
+    background-size: cover;
+}
+.headfrist{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 25px;
+}
+.bgcardcarousel{
+    background-color: white;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    margin: 25px;
+    
+}
+.secondimage{
+    height: 50%;
+    width: 100%;
+}
+.bgcardcarous{
+    background-color: whitesmoke;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin: 25px;
+}
+.cardcolor{
+    padding: 20px;
+    color: whitesmoke;
+}
+
+.headsecond{
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight:bold ;
+    
+}
+.paraline{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}

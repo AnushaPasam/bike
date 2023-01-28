@@ -1,0 +1,27 @@
+.bgimg{
+     background-image: url("https://img.freepik.com/premium-photo/brandless-motorcycle-motorbike-vehicle-concept_53876-72886.jpg?w=1060");
+     height: 110vh;
+     width: 100vw;
+     background-size: cover;
+}
+.heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+.layoutcard{
+    background-color:burlywood;
+    height: 200px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.paraline{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
